@@ -25,7 +25,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: url('https://cdn.pixabay.com/photo/2021/02/18/18/11/ai-6028230_1280.jpg') no-repeat center center/cover;
+    background: url('https://cdn.pixabay.com/photo/2021/02/18/18/11/ai-6028230_1280.jpg');
     /* height: 50vh; */
     padding: 3rem;
     display: flex;
